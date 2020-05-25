@@ -1,4 +1,4 @@
-/*-----base design(mobile view is also completed in same view so I don't need to specify separately)-----*/
+/*-----base design(mobile view is also completed in same view so I don't need to specify mobile view grid separately)-----*/
 
 
 *{
@@ -109,7 +109,3 @@ h2.sub-3{
       }
 
 }
-
-
-
-
