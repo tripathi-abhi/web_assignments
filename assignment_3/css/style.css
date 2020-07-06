@@ -55,20 +55,23 @@
 
 
 /*--------------------------long text content------------------------*/
-
-#long-text{
-	text-align: center;
-	background:#ccc;
-	margin:15px;
+.col-xs-12 section{
+    background-color:aquamarine;
+	padding:10px 20px 20px;
+	border:2px solid darkblue;
+	border-radius:4px;
+	margin-bottom:30px;
 }
 
 #long-text h3{
-	margin-top:15px;
+	text-align: center;
+	margin-top:10px;
+	margin-bottom:20px;
 }
 
 
 @media (max-width:767px){
 	#long-text{
-	margin:35px;
+	margin:30px;
 }
 }
