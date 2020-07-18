@@ -1,0 +1,49 @@
+/*----------------navbar------------------------*/
+.navbar-brand h1{
+	margin:0;
+	line-height:0.6;
+	color:forestgreen;
+}
+
+.navbar-brand a{
+	text-decoration:none;
+}
+
+#navbar-header{
+	background:#f6b319;
+	border:0;
+	border-radius:0;
+}
+
+#collapsable-menu{
+	border:0;
+	border-radius:0;
+}
+
+#navbar-menu li a{
+	font-size:1.2em;
+	color:#61122f;
+}
+
+#navbar-menu li a:hover{
+	background:#61122f;
+	color:aliceblue;
+	font-size: 1.3em;
+}
+
+#navbar-menu-buttons{
+	color:#61122f;
+	border:2px solid #61122f;
+}
+
+#navbar-menu-buttons .icon-bar{
+	background:#62211f;
+}
+/*-----------------------------sections---------------------*/
+
+#chicken-section,#Beef-section,#shushi-section{
+	color:aliceblue;
+	margin:10px 0px 30px;
+	background:#61122f;
+	padding:15px;
+}
