@@ -275,6 +275,7 @@ h3.menu-item-title{
 	font-size:0.9em;
 	font-style:italic;
 }
+
 /*------------------large devices-----------------*/
 @media (min-width:1200px){
      .container .jumbotron{
